@@ -4119,7 +4119,7 @@ var defaultOptions = {
     kind: OptionKind.VIEWER + OptionKind.PREFERENCE
   },
   defaultUrl: {
-    value: 'Hidden_curriculum_text.pdf',
+    value: 'intersection_disciplinaries.pdf',
     kind: OptionKind.VIEWER
   },
   defaultZoomValue: {
