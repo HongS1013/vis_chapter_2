@@ -4119,7 +4119,7 @@ var defaultOptions = {
     kind: OptionKind.VIEWER + OptionKind.PREFERENCE
   },
   defaultUrl: {
-    value: 'intersection_disciplinaries.pdf',
+    value: 'Krumm-2018-ch2.pdf',
     kind: OptionKind.VIEWER
   },
   defaultZoomValue: {
